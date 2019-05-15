@@ -1,1 +1,1 @@
-Git bash console
+Git bash console + Git extention
